@@ -3,5 +3,5 @@ Files associated with TARA / ARENA course
 
 https://www.taraprogram.org/
 
-blog:scifuture.org
-YT: youtube.com/@scfu
+blog: https://scifuture.org
+YT: https://youtube.com/@scfu
